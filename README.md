@@ -31,4 +31,6 @@ dotnet publish --configuration Debug /property:GenerateFullPaths=true /consolelo
 
 ## References
 
-https://learn.microsoft.com/en-us/azure/active-directory-b2c/identity-provider-apple-id?pivots=b2c-custom-policy#signing-the-client-secret
+- https://github.com/axelheer/dotnet-corefx/blob/master/pkg/descriptions.json
+- https://www.fatlemon.co.uk/2024/11/fixed-dotnet-an-error-occurred-while-loading-required-library-libhostpolicy.dylib-on-macos/
+- https://learn.microsoft.com/en-us/azure/active-directory-b2c/identity-provider-apple-id?pivots=b2c-custom-policy#signing-the-client-secret
